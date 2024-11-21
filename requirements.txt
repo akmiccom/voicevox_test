@@ -1,3 +1,7 @@
 requests
 pyaudio
 ipykernel
+numpy
+wave
+playsound
+pydub
